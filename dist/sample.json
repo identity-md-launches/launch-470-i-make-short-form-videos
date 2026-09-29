@@ -1,0 +1,35 @@
+{
+  "id": "1",
+  "name": "Swarm Pepe #1",
+  "revealed": true,
+  "image": "./sample.svg",
+  "traits": [
+    {
+      "trait_type": "Skin",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chain"
+    }
+  ],
+  "block": "26085433",
+  "blockHash": "0xeaab3597c263891dcd2a3976624b4ecebb8d5a36e5f42e8325bbeb39137a0932",
+  "fetchedAt": "2026-09-29T20:12:18.734806+00:00",
+  "source": "saved",
+  "contract": "0x999ce0ce8c5f7661e0c74a568ffe27ceb9177bdb",
+  "chainId": 1,
+  "rpc": "https://eth.drpc.org"
+}

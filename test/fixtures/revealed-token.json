@@ -1,0 +1,27 @@
+{
+  "name": "Swarm Pepe #1",
+  "description": "Drawn on chain, pixel by pixel, by the contract itself. Minted by wallets the swarm picked out for the requests they sent it.",
+  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0ODAiIGhlaWdodD0iNDgwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjOGQ2ZjllIi8+PHJlY3QgeD0iOCIgeT0iNSIgd2lkdGg9IjgiIGhlaWdodD0iMSIgZmlsbD0iIzhlY2I2MyIvPjxyZWN0IHg9IjciIHk9IjYiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjOGVjYjYzIi8+PHJlY3QgeD0iNiIgeT0iNyIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEwIiBmaWxsPSIjOGVjYjYzIi8+PHJlY3QgeD0iNyIgeT0iMTciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxIiBmaWxsPSIjOGVjYjYzIi8+PHJlY3QgeD0iMTciIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjEwIiBmaWxsPSIjNmFhODQ1Ii8+PHJlY3QgeD0iMTYiIHk9IjE3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNmFhODQ1Ii8+PHJlY3QgeD0iOCIgeT0iMTgiIHdpZHRoPSI4IiBoZWlnaHQ9IjEiIGZpbGw9IiM2YWE4NDUiLz48cmVjdCB4PSIxMCIgeT0iMTkiIHdpZHRoPSI0IiBoZWlnaHQ9IjIiIGZpbGw9IiM4ZWNiNjMiLz48cmVjdCB4PSIxNCIgeT0iMTkiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiIGZpbGw9IiM2YWE4NDUiLz48cmVjdCB4PSI3IiB5PSIyMSIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEiIGZpbGw9IiMyYjJmM2EiLz48cmVjdCB4PSI2IiB5PSIyMiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEiIGZpbGw9IiMyYjJmM2EiLz48cmVjdCB4PSI1IiB5PSIyMyIgd2lkdGg9IjE0IiBoZWlnaHQ9IjEiIGZpbGw9IiMyYjJmM2EiLz48cmVjdCB4PSI3IiB5PSI4IiB3aWR0aD0iMyIgaGVpZ2h0PSIyIiBmaWxsPSIjZmZmZmZmIi8+PHJlY3QgeD0iMTQiIHk9IjgiIHdpZHRoPSIzIiBoZWlnaHQ9IjIiIGZpbGw9IiNmZmZmZmYiLz48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjMWIxYjFiIi8+PHJlY3QgeD0iMTYiIHk9IjkiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiMxYjFiMWIiLz48cmVjdCB4PSI4IiB5PSIxNCIgd2lkdGg9IjgiIGhlaWdodD0iMSIgZmlsbD0iIzIwMzAxZiIvPjxyZWN0IHg9IjE2IiB5PSIxNCIgd2lkdGg9IjMiIGhlaWdodD0iMSIgZmlsbD0iI2YyZjJlYSIvPjxyZWN0IHg9IjE5IiB5PSIxNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI2UwNmEyYSIvPjxyZWN0IHg9IjE5IiB5PSIxMiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI2NmY2ZjZiIvPjxyZWN0IHg9IjIwIiB5PSIxMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI2NmY2ZjZiIvPjxyZWN0IHg9IjEwIiB5PSIyMSIgd2lkdGg9IjUiIGhlaWdodD0iMSIgZmlsbD0iI2U4YzE0YSIvPjxyZWN0IHg9IjEyIiB5PSIyMiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iI2U4YzE0YSIvPjwvc3ZnPg==",
+  "attributes": [
+    {
+      "trait_type": "Skin",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eye"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chain"
+    }
+  ]
+}
